@@ -1,0 +1,4 @@
+baseURL = 'https://myrburrows.github.io/blog/'
+languageCode = 'en-us'
+title = 'Roger Burrows Blog Site'
+theme = 'anubis'
