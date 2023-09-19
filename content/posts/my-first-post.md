@@ -49,3 +49,5 @@ Welcome to the Ooli project.
  2. Click on Settings, then Pages on the left
  3. DEPLOY from a branch (main), and Save
  4. CLICK link at "Your site is live at ____", appears after a couple of minutes
+ ![Example image](/static/myImage1.png)
+ 
