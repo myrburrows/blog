@@ -14,7 +14,7 @@ Welcome to the Ooli project.
  1.  CREATE a GitHub account
 
    
-# II Create the Ooli project
+# II. Create the Ooli project
 ### A. GitHub
  1. CREATE or LogIn to your personal GitHub account
  2. CREATE a new empty repo named Ooli
